@@ -1,3 +1,39 @@
+a {
+	text-decoration: none !important;
+}
+
+.winTile {
+	padding: 0.2rem !important;
+}
+
+.winTile article {
+	border-radius: 0px;
+	box-shadow: none;
+}
+
+.winTile.tile.is-vertical > .tile.is-child:not(:last-child) {
+	margin-bottom: 0.4rem !important;
+}
+
+.is-oneNote {
+	background-color: #984492;
+	color: #fff;
+}
+
+footer {
+	font-weight: 500 !important;
+}
+
+.is-purple {
+	background-color: #5937b2;
+	color: #fff;
+}
+
+.is-orange {
+	background-color: #e76641;
+	color: #fff;
+}
+
 .b-profile-imagewrapper {
 	border: 1px solid #eaeaea;
 	border-radius: 3px;
