@@ -2,8 +2,14 @@ a {
 	text-decoration: none !important;
 }
 
+/*.subtitle {
+	font-weight: 500;
+}
+
 .winTile {
-	padding: 0.2rem !important;
+	padding: 0.5rem !important;
+	margin: 10px !important;
+	border-radius: 0px !important;
 }
 
 .winTile article {
@@ -12,13 +18,13 @@ a {
 }
 
 .winTile.tile.is-vertical > .tile.is-child:not(:last-child) {
-	margin-bottom: 0.4rem !important;
+	margin-bottom: 0.1rem !important;
 }
 
 .is-oneNote {
 	background-color: #984492;
 	color: #fff;
-}
+}*/
 
 footer {
 	font-weight: 500 !important;
